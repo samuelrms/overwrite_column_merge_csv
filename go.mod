@@ -1,4 +1,4 @@
-module github.com/samuelrms/overwrite_column_csv
+module github.com/samuelrms/overwrite_column_merge_csv
 
 go 1.23.5
 
